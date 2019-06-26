@@ -1,0 +1,15 @@
+body,
+html {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+*,
+*:after,
+*::before {
+	box-sizing: border-box;
+}
+
+.fp-tableCell {
+	height: 0 !important;
+}
