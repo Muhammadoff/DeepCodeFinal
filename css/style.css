@@ -358,7 +358,7 @@ i:hover {
 
 .figma-slider {
     margin-top: 20%;
-    margin-left: 30%;
+    margin-right: 10%;
     width: 650px;
     height: 450px;
     background-image: url("../images/mountin.jpg");
@@ -717,14 +717,14 @@ h6 p {
 }
 
 .fff {
-    margin-left: 150px;
-    margin-top: 100px;
+    position: absolute;
+    top: 20%;
+    left: 20%;
 }
 
 .eee {
-    position: absolute;
-    top: -280px;
-    right: -750px;
+    margin-top: 20%;
+    margin-left: 20%;
 }
 
 .col-6 img {

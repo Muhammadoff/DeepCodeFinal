@@ -85,7 +85,8 @@
     function contactToRight() {
         anime({
             targets: ['.head-w3'],
-            translateX: 100 + '%'
+            translateX: 100 + '%',
+            easing: 'easeInOutQuad'
 
         });
     }
@@ -94,7 +95,8 @@
         anime({
 
             targets: ['.head-w3'],
-            translateX: 0 + '%'
+            translateX: 0 + '%',
+            easing: 'easeInOutQuad'
 
         });
     }
@@ -103,7 +105,8 @@
         anime({
 
             targets: ['.head-w2'],
-            translateX: 93 + '%'
+            translateX: 93 + '%',
+            easing: 'easeInOutQuad'
 
         });
     }
@@ -112,7 +115,8 @@
         anime({
 
             targets: ['.head-w2'],
-            translateX: 0 + '%'
+            translateX: 0 + '%',
+            easing: 'easeInOutQuad'
 
         });
     }
